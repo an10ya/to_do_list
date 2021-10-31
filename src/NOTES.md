@@ -6,4 +6,4 @@ Libraires Used on the client side.
 4. redux-thunk
 5. reatc-redux
 6. redux
-7. react-google-login 
+7. react-google-login - Google Auth
