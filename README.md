@@ -1,2 +1,2 @@
-# to_do_list
-Creating our first full-stack application.
+1. npm install - To install the node Modules
+2. nodemon index.js - To start the server
