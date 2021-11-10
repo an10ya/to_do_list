@@ -7,6 +7,9 @@ Libraries Used in the Server
 5. Mongoose
 6. jsonwebtoken
 7. bcryptjs
-8. Passportjs for social media authentication
-9. cookie-session
-10. passport-google-oauth20
+
+/*
+9. Passportjs for social media authentication
+10. cookie-session
+11. passport-google-oauth20
+ */
